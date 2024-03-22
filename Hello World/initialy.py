@@ -1,0 +1,7 @@
+print("V     V  RRRRRR")
+print("V     V  R    R")
+print("V     V  R    R")
+print(" V   V   RRRRRR")
+print(" V   V   RRR")
+print("  V V    R RR")
+print("   V     R   RR")
