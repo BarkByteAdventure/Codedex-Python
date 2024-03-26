@@ -10,3 +10,9 @@
 # After you run the code, change grade's value and rerun it.
 # Do this a few times to make sure it's working as intended.
 
+grade = float(input("What is your grade?\n"))
+
+if grade >= 55:
+  print("You passed.")
+else:
+  print("You failed.")
